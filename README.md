@@ -1,4 +1,4 @@
-Se o IP do seu servidor estiver listado aqui, você foi impedido de usar este mod (por um motivo específico, consulte o arquivo correspondente).
+Se o IP do seu servidor não estiver listado aqui, você foi impedido de usar este mod (por um motivo específico, consulte o arquivo correspondente).
 
 Os motivos mais comuns para entrar nesta lista são reempacotar o mod sem permissão ou não seguir as regras de monetização.
 
