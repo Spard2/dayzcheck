@@ -11,5 +11,5 @@
 189.127.165.174|2302|LINUX
 168.194.43.150|2302|MEIAMAO
 186.225.146.143|2302|ankysobrevivenciaz
-179.107.130.187|2302|ankysobrevivenciaz
+45.40.99.147|2302|ankysobrevivenciaz
 45.40.99.144|2302|JhonWinchester
