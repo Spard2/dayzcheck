@@ -14,4 +14,4 @@
 186.225.146.143|2302|ankysobrevivenciaz
 45.40.99.147|2302|ankysobrevivenciaz
 172.84.94.144|2302|JhonWinchester
-45.40.99.147|2302|GOTHAMZ
+172.84.94.147|2302|GOTHAMZ
