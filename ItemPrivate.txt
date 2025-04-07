@@ -16,3 +16,5 @@
 172.84.94.160|FABRICIO
 45.4.49.79|GOMES 
 172.84.94.144|jhonwinchester
+189.127.164.144|4trix-HollowG
+172.84.94.172|4trix-HollowG
