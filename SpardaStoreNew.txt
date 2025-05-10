@@ -5,4 +5,5 @@
 172.84.94.144|jhonwinchester
 189.127.164.144|4trix-HollowG
 172.84.94.142|NelsonRafael
+177.54.149.144|NelsonRafael
 172.84.94.156|APOCALYPSE
